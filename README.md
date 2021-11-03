@@ -5,7 +5,7 @@
 ## 配置环境
 
 ```
-pip install -r requirment.txt
+pip install -r requirments.txt
 ```
 
 ## 使用指南
